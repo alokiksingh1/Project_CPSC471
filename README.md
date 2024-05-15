@@ -1,30 +1,16 @@
 # Hospital-Management
-A hospital management system using nodejs , express , mysql , ejS
+A hospital management system using NodeJS , Express , MYSQL
 
-First clone or Download the project
 
-Next open command prompt in project folder 
 
-Then type npm install (or you can use command npm update)
-import the database file in mysql server
-After that type nodemon app (or you can use node app) 
+#### How to run the project
+Download the node modules by running "npm install" in your terminal
 
-Home
-![](screenshot/home.PNG)
+Import the database file in mysql server
 
-Sign Up
+Run "nodemon app" (or "node app") 
 
-![](screenshot/signup.PNG)
+You can find the detailed information about the project here :
 
-Dash Board
-![](screenshot/dash.PNG)
 
-Medicine Store
-
-![](screenshot/med.PNG)
-
-Report Generate
-![](screenshot/report.PNG)
-
-Add Employee Leave
-![](screenshot/leave.PNG)
+[CPSC 471 project.pdf](https://github.com/alokiksingh1/hospital_management/files/15327731/CPSC.471.project.pdf)
